@@ -1,1 +1,1 @@
-# Music-Player
+The play music  is a simple webpage using the <audio> element in HTML. It supports common formats like MP3 and Audio button. To style buttons or the layout, CSS is used. JavaScript provides interactive control, such as playing, pausing, or adjusting volume. By targeting the audio element with JavaScript, users can trigger playback through events like button clicks.
